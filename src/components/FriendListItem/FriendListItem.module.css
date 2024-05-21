@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+  }
+  .status {
+    font-size: 10px;
+  }
+  .online {
+    color: green;
+  }
+  .offline {
+    color: crimson;
+  }
