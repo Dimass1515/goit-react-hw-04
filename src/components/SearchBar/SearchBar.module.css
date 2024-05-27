@@ -1,8 +1,9 @@
 .header {
   padding: 20px;
-  background-color: #f0f0f0;
+  background-color: white;
   display: flex;
   justify-content: center;
+  border: 1px solid black;
 }
 
 .form-container {
